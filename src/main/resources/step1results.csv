@@ -1,0 +1,346 @@
+PROJECT,TEST,MIN_WORKING_TIME
+Bercut,KS-1820 Verify that Bidder Configuration can be saved,4644
+Bercut,KS-2572 AVP verify that actions can be performed when status is Verified,300
+Bercut,KS-2860 Ad server Verify that summary section and campaigns grid are displayed,827
+Bercut,KS-3173 Verify that enabled or disabled deals can be disabled or enabled,254
+Bercut,KS-3317 Deals Supply List verify that Buyer can be added,281
+Bercut,KS-3695 Ad Server New Campaign verify that 3rd party tag can be edited,877
+Bercut,KS-3799 Ad Server Campaign Country Targeting verify that target countries can be selected,268
+Bercut,KS-3955 Ad Server new campaign Position verify that positions and sites can be selected,5465
+Bercut,KS-408 Verify that Reports tabs can be removed,302
+Bercut,KS-4218 Impersonate Verify that role can be changed,409
+Bercut,KS-4322 Verify that Seller can be changed in impersonate drop-down,4785
+Bercut,KS-4356 Verify that Connect Partners can be edited,260
+Bercut,KS-4389 Buyers Verify that Adnet can be created with required fields only general section is filled in,177
+Bercut,KS-4467 Connect partner: verify that created partner can be selected in the RTB Bidder Config,317
+Bercut,KS-4632 PSS verify that MM Exchange ad source can be updated with allow bidders and bidder groups by Seller admin,1581
+Bercut,KS-4658 Settings Verify that Block Group can be created by Sellers admin,5541
+Bercut,KS-4675 Settings Verify that Publisher Bidder Group can be edited by Seller admin and manager,7226
+Bercut,KS-4905 Impersonate PSS App Placement Overview toolbar is displayed correctly,0
+Bercut,KS-4905 Impersonate PSS App Placement Overview toolbar is displayed correctly,763
+Bercut,KS-4930 Verify that ONE: Mobile Marketplace Ad Source can be edited,0
+Bercut,KS-4934 Verify that Geo Targeting can be edited from Block to Allow for MM Exchange Ad Source,807
+Bercut,KS-4939 Impersonate PSS New House Campaign verify that Name and Pricing section can be filled in,4585
+Bercut,KS-5124 Impersonate PSS Verify that SAVE AND ADD PLACEMENT BUTTON saves the app site and forward user for placement creation,298
+Bercut,KS-5355 PSS Campaigns Targeting Custom Targeting verify that custom targeting group can be added,0
+Bercut,KS-5361 PSS Campaign Targeting verify that iOS specific devices can be saved,258
+Bercut,KS-5362 PSS Campaign Targeting verify that iOS specific versions can be saved,875
+Bercut,KS-5367 PSS Campaign Targeting verify that specific other operating systems can be saved,451
+Bercut,KS-5439 PSS Campaigns Targeting verify that campaign can be saved with Carriers only option and all carriers,0
+Bercut,KS-5444 PSS Campaigns Targeting Country Targeting verify that blocked countries can be selected,654
+Bercut,KS-5615 Verify that Banner placement can be added from Applications and Sites grid,670
+Bercut,KS-5759 Sellers: Position Setup: add In-stream Video position and check all correct data are shown in PSS, update in PSS and check in seller admin,546
+Bercut,KS-5806 Verify that columns can be hidden and unhidden in Nexage Finance Reports,7176
+Bercut,KS-5815 PSS Verify that Ad Size can be overriden at tag level Impersonate,657
+Bercut,KS-5987 users: verify Nexage User can impersonate as Seller User only,729
+Bercut,KS-6017 PSS Campaign Targeting verify that devices and versions from different OS can be saved,535
+Bercut,KS-6154 PSS Verify that its possible to set up Block bidders settings at RTB Default settings,0
+Bercut,KS-6279 Verify that Seller user can be deleted,4593
+Bercut,KS-6998 PSS Verify that tag can be paused,0
+Brand Alley,KS-1813 Verify that Nexage Only Configuration can be saved,412
+Brand Alley,KS-3272 Ad server verify that actions can be performed for Running campaigns,226
+Brand Alley,KS-3696 Ad server new campaign verify that creative and tag can be deleted,913
+Brand Alley,KS-4348 PSS Create new Block group verify that block group can be added by Nexage admin as PSS admin,1419
+Brand Alley,KS-4353 Verify that Connect Partner can be saved with required fields,84
+Brand Alley,KS-4476 PSS Verify that its possible to edit an app site Android,512
+Brand Alley,KS-4578 Verify that Placement can be edited in the Settings tab,221
+Brand Alley,KS-4675 Settings Verify that Publisher Bidder Group can be edited by Seller admin and manager,361
+Brand Alley,KS-4846 Settings Verify that Bidder Group can be created,0
+Brand Alley,KS-5399 Impersonate PSS Campaign Status verify that incomplete campaign can be changed to running,615
+Brand Alley,KS-5694 Sellers: Position Setup: add and edit position with Interstitial type,713
+Brand Alley,KS-5988 Verify that its possible to clone deal,405
+Brand Alley,KS-6010 Verify AND search for Available suppliers grid,7365
+Brand Alley,KS-6978 PSS MM Network Verify that it's possible to copy tag,5309
+Envisia,KS-4787 PSS Verify that positions and sites can be selected for new Campaign Position,467
+Envisia,KS-4787 PSS Verify that positions and sites can be selected for new Campaign Position,1324
+Envisia,KS-5294 PSS Campaign Direct Campaign data in all sections can be saved by Next Back buttons,0
+Envisia,KS-5359 PSS Campaign Targeting verify that Block specific devices can be saved,565
+Envisia,KS-5362 PSS Campaign Targeting verify that iOS specific versions can be saved,998
+Envisia,KS-5399 Impersonate PSS Campaign Status verify that incomplete campaign can be changed to running,773
+Envisia,KS-5399 Impersonate PSS Campaign Status verify that incomplete campaign can be changed to running,0
+Envisia,KS-5409 PSS Campagin Status verify that running campaign can be edited,0
+Envisia,KS-5430 PSS Campaign Creatives verify that creative and 3rd party tag can be deleted,0
+Envisia,KS-5444 PSS Campaigns Targeting Country Targeting verify that blocked countries can be selected,718
+Envisia,KS-5841 Verify that MM Network Ad Source can be created,523
+Envisia,KS-6010 Verify AND search for Available suppliers grid,1801
+Envisia,KS-6265 Verify that Seller admin can be created,792
+Envisia,KS-6279 Verify that Seller user can be deleted,266
+Iota,KS-1824 Verify that Traffic Filters can be saved,1404
+Iota,KS-1824 Verify that Traffic Filters can be saved,1532
+Iota,KS-2395 AVM Verify that filter can be selected for AVP,5800
+Iota,KS-2571 AVP verify that actions can be performed when status is To Verify,560
+Iota,KS-2571 AVP verify that actions can be performed when status is To Verify,321
+Iota,KS-2572 AVP verify that actions can be performed when status is Verified,260
+Iota,KS-2860 Ad server Verify that summary section and campaigns grid are displayed,1511
+Iota,KS-3173 Verify that enabled or disabled deals can be disabled or enabled,724
+Iota,KS-3285 Verify behavior of Add selected button in Supply List grid,15768
+Iota,KS-3296 Verify drilldown views links in Supply List grid,3603
+Iota,KS-3296 Verify drilldown views links in Supply List grid,213
+Iota,KS-3317 Deals Supply List verify that Buyer can be added,33
+Iota,KS-3317 Deals Supply List verify that Buyer can be added,212
+Iota,KS-3318 Deals Supply List verify that buyer can be edited and deleted,4820
+Iota,KS-3483 PSS Date selection tool is displayed correctly,682
+Iota,KS-3695 Ad Server New Campaign verify that 3rd party tag can be edited,1052
+Iota,KS-3722 Ad Server New campaign verify that general section can be filled in,685
+Iota,KS-405 Verify that Reports tabs can be added,null
+Iota,KS-408 Verify that Reports tabs can be removed,303
+Iota,KS-408 Verify that Reports tabs can be removed,165
+Iota,KS-409 Verify that Reports tabs can be collapsed and expanded,86
+Iota,KS-414 Verify that date ranges can be set for reports,294
+Iota,KS-414 Verify that date ranges can be set for reports,107
+Iota,KS-4159 Ad Server Custom Targeting verify that custom targeting group can be added,596
+Iota,KS-4241 Buyers Verify that Adnet can be created all the sections are filled in,428
+Iota,KS-4359 PSS verify that Publisher Bidder Group can be created by Sellers admin and manager,5383
+Iota,KS-4440 PSS Verify that Gross Floor is not displayed for external user,227
+Iota,KS-4440 PSS Verify that Gross Floor is not displayed for external user,26503
+Iota,KS-4578 Verify that Placement can be edited in the Settings tab,424
+Iota,KS-4615 Verify that Nexage admin can be created,276
+Iota,KS-4651 Verify that Geo Targeting can be edited from Block to Allow for Mediation Ad Source,4823
+Iota,KS-4797 Settings Verify that Publisher Block Group can be created,353
+Iota,KS-4930 Verify that ONE: Mobile Marketplace Ad Source can be edited,108
+Iota,KS-4930 Verify that ONE: Mobile Marketplace Ad Source can be edited,705
+Iota,KS-4939 Impersonate PSS New House Campaign verify that Name and Pricing section can be filled in,803
+Iota,KS-5124 Impersonate PSS Verify that SAVE AND ADD PLACEMENT BUTTON saves the app site and forward user for placement creation,258
+Iota,KS-5156 Reports Verify that search can be performed in the type report and company dropdown,107
+Iota,KS-5294 PSS Campaign Direct Campaign data in all sections can be saved by Next Back buttons,258
+Iota,KS-5355 PSS Campaigns Targeting Custom Targeting verify that custom targeting group can be added,0
+Iota,KS-5361 PSS Campaign Targeting verify that iOS specific devices can be saved,335
+Iota,KS-5376 PSS Campaign Targeting verify that Android specific devices can be edited,666
+Iota,KS-5406 PSS Campaign Status verify that running campaign can be changed to incomplete and back,0
+Iota,KS-5426 PSS Campaign Creatives verify that 3rd party tag can be edited,0
+Iota,KS-5437 PSS Campaigns Targeting verify that campaign can be saved with Wifi and carriers option and all carriers,0
+Iota,KS-5439 PSS Campaigns Targeting verify that campaign can be saved with Carriers only option and all carriers,0
+Iota,KS-5439 PSS Campaigns Targeting verify that campaign can be saved with Carriers only option and all carriers,529
+Iota,KS-5641 Impersonate PSS Verify that Rich Media Allowed and Allowed Ad Formats are not displayed for external user,388
+Iota,KS-5652 Verify that Native placement can be added from Applications and Sites grid,825
+Iota,KS-5653 Verify that Medium Rectangle placement can be added from Applications and Sites grid,223
+Iota,KS-5694 Sellers: Position Setup: add and edit position with Interstitial type,263
+Iota,KS-5699 Sellers: Position Setup: add and edit position with Medium Rectangle type,587
+Iota,KS-5699 Sellers: Position Setup: add and edit position with Medium Rectangle type,610
+Iota,KS-5700 Sellers: Position Setup: add and edit position with Native type,507
+Iota,KS-5759 Sellers: Position Setup: add In-stream Video position and check all correct data are shown in PSS, update in PSS and check in seller admin,222
+Iota,KS-5765 Change dimension filters for Seller Revenue report,5280
+Iota,KS-5797 Verify that InStream Video placement can be edited from Applications and Sites grid Custom Video settings,529
+Iota,KS-5797 Verify that InStream Video placement can be edited from Applications and Sites grid Custom Video settings,521
+Iota,KS-5815 PSS Verify that Ad Size can be overriden at tag level Impersonate,497
+Iota,KS-5987 users: verify Nexage User can impersonate as Seller User only,568
+Iota,KS-5988 Verify that its possible to clone deal,2606
+Iota,KS-5988 Verify that its possible to clone deal,0
+Iota,KS-6010 Verify AND search for Available suppliers grid,3175
+Iota,KS-6013 PSS Mediation Ad Source verify different Reporting Settings parameters are shown as configured for Adnet,1383
+Iota,KS-6017 PSS Campaign Targeting verify that devices and versions from different OS can be saved,614
+Iota,KS-6059 Verify that Internal Manager can be edited,472
+Iota,KS-6059 Verify that Internal Manager can be edited,264
+Iota,KS-6062 Verify that Internal User can be deleted,287
+Iota,KS-6062 Verify that Internal User can be deleted,279
+Iota,KS-6110 PSS: Users: Verify that sites can be edited for users,983
+Iota,KS-6110 PSS: Users: Verify that sites can be edited for users,1165
+Iota,KS-6123 Impersonate PSS Default Reporting Settings verify all fields are prefilled with values saved on Ad source,263
+Iota,KS-6154 PSS Verify that its possible to set up Block bidders settings at RTB Default settings,6389
+Iota,KS-6159 PSS: perform Save and Add Exchange when new placement is added from the grid,417
+Iota,KS-6265 Verify that Seller admin can be created,972
+Iota,KS-6268 Verify that Buyer admin can be created,430
+Iota,KS-6279 Verify that Seller user can be deleted,538
+Iota,KS-6280 Verify that Buyer user can be deleted,548
+Iota,KS-6280 Verify that Buyer user can be deleted,504
+Iota,KS-6408 PSS Campaign verify that campaign can be created,317
+Iota,KS-6983 PSS Direct Ad Source Verify that it's not possible to copy tag,1133
+Iota,KS-6983 PSS Direct Ad Source Verify that it's not possible to copy tag,1267
+Megafon,KS-1806 Verify that RTB Bidder Configuration can be saved,228
+Megafon,KS-1820 Verify that Bidder Configuration can be saved,195
+Megafon,KS-1824 Verify that Traffic Filters can be saved,5198
+Megafon,KS-2569 AVP verify that campaign and ad cards can be viewed,220
+Megafon,KS-2571 AVP verify that actions can be performed when status is To Verify,474
+Megafon,KS-3696 Ad server new campaign verify that creative and tag can be deleted,4636
+Megafon,KS-3955 Ad Server new campaign Position verify that positions and sites can be selected,1482
+Megafon,KS-4061 Verify that tags associated via SelfServe Placement are displayed in PSS,1098
+Megafon,KS-4159 Ad Server Custom Targeting verify that custom targeting group can be added,547
+Megafon,KS-4168 Ad Server OS and Devices verify that specific devices can be targeted or not targeted,888
+Megafon,KS-4322 Verify that Seller can be changed in impersonate drop-down,1202
+Megafon,KS-4353 Verify that Connect Partner can be saved with required fields,229
+Megafon,KS-4359 PSS verify that Publisher Bidder Group can be created by Sellers admin and manager,1714
+Megafon,KS-4359 PSS verify that Publisher Bidder Group can be created by Sellers admin and manager,1609
+Megafon,KS-4475 PSS Verify that its possible to create an app site Android App,493
+Megafon,KS-4531 Verify that Interstitial Image and Video placement can be added from Applications and Sites grid,410
+Megafon,KS-4640 Verify that account can be edited and password can be changed,801
+Megafon,KS-4640 Verify that account can be edited and password can be changed,870
+Megafon,KS-4658 Settings Verify that Block Group can be created by Sellers admin,228
+Megafon,KS-4658 Settings Verify that Block Group can be created by Sellers admin,1700
+Megafon,KS-4675 Settings Verify that Publisher Bidder Group can be edited by Seller admin and manager,0
+Megafon,KS-4905 Impersonate PSS App Placement Overview toolbar is displayed correctly,822
+Megafon,KS-4939 Impersonate PSS New House Campaign verify that Name and Pricing section can be filled in,597
+Megafon,KS-5294 PSS Campaign Direct Campaign data in all sections can be saved by Next Back buttons,897
+Megafon,KS-5361 PSS Campaign Targeting verify that iOS specific devices can be saved,364
+Megafon,KS-5409 PSS Campagin Status verify that running campaign can be edited,1097
+Megafon,KS-5439 PSS Campaigns Targeting verify that campaign can be saved with Carriers only option and all carriers,259
+Megafon,KS-5653 Verify that Medium Rectangle placement can be added from Applications and Sites grid,330
+Megafon,KS-5694 Sellers: Position Setup: add and edit position with Interstitial type,510
+Megafon,KS-5700 Sellers: Position Setup: add and edit position with Native type,224
+Megafon,KS-5759 Sellers: Position Setup: add In-stream Video position and check all correct data are shown in PSS, update in PSS and check in seller admin,525
+Megafon,KS-5817 Verify that ONE: Mobile Marketplace Ad Source can be created,505
+Megafon,KS-6062 Verify that Internal User can be deleted,287
+Megafon,KS-6110 PSS: Users: Verify that sites can be edited for users,792
+Megafon,KS-6154 PSS Verify that its possible to set up Block bidders settings at RTB Default settings,10826
+Nexage,KS-1633 Verify that Buyers grid can be viewed,670
+Nexage,KS-1633 Verify that Buyers grid can be viewed,593
+Nexage,KS-1637 Verify that Buyer can be created,318
+Nexage,KS-1640 Verify that Buyer can be created with all fields filled in and checkboxes checked,143
+Nexage,KS-1640 Verify that Buyer can be created with all fields filled in and checkboxes checked,201
+Nexage,KS-1806 Verify that RTB Bidder Configuration can be saved,203
+Nexage,KS-1813 Verify that Nexage Only Configuration can be saved,313
+Nexage,KS-1820 Verify that Bidder Configuration can be saved,107
+Nexage,KS-2395 AVM Verify that filter can be selected for AVP,2167
+Nexage,KS-2569 AVP verify that campaign and ad cards can be viewed,416
+Nexage,KS-2571 AVP verify that actions can be performed when status is To Verify,563
+Nexage,KS-2572 AVP verify that actions can be performed when status is Verified,55
+Nexage,KS-2572 AVP verify that actions can be performed when status is Verified,266
+Nexage,KS-2860 Ad server Verify that summary section and campaigns grid are displayed,893
+Nexage,KS-2860 Ad server Verify that summary section and campaigns grid are displayed,264
+Nexage,KS-2860 Ad server Verify that summary section and campaigns grid are displayed,0
+Nexage,KS-3173 Verify that enabled or disabled deals can be disabled or enabled,279
+Nexage,KS-3173 Verify that enabled or disabled deals can be disabled or enabled,271
+Nexage,KS-3204 Ad Server verify that actions can be performed for Inactive campaign,1179
+Nexage,KS-3204 Ad Server verify that actions can be performed for Inactive campaign,3014
+Nexage,KS-3204 Ad Server verify that actions can be performed for Inactive campaign,0
+Nexage,KS-3272 Ad server verify that actions can be performed for Running campaigns,809
+Nexage,KS-3272 Ad server verify that actions can be performed for Running campaigns,727
+Nexage,KS-3285 Verify behavior of Add selected button in Supply List grid,484
+Nexage,KS-3285 Verify behavior of Add selected button in Supply List grid,241
+Nexage,KS-3296 Verify drilldown views links in Supply List grid,282
+Nexage,KS-3296 Verify drilldown views links in Supply List grid,260
+Nexage,KS-3317 Deals Supply List verify that Buyer can be added,208
+Nexage,KS-3318 Deals Supply List verify that buyer can be edited and deleted,8310
+Nexage,KS-3318 Deals Supply List verify that buyer can be edited and deleted,0
+Nexage,KS-3483 PSS Date selection tool is displayed correctly,690
+Nexage,KS-3691 Ad Server New Campaign verify that 3rd party tag can be added,449
+Nexage,KS-3691 Ad Server New Campaign verify that 3rd party tag can be added,507
+Nexage,KS-3695 Ad Server New Campaign verify that 3rd party tag can be edited,0
+Nexage,KS-3722 Ad Server New campaign verify that general section can be filled in,224
+Nexage,KS-3799 Ad Server Campaign Country Targeting verify that target countries can be selected,775
+Nexage,KS-3799 Ad Server Campaign Country Targeting verify that target countries can be selected,900
+Nexage,KS-3985 Ad Server Campaign Wifi and Carrier verify that carriers can be selected when no countries targeted,1005
+Nexage,KS-3985 Ad Server Campaign Wifi and Carrier verify that carriers can be selected when no countries targeted,1038
+Nexage,KS-405 Verify that Reports tabs can be added,246
+Nexage,KS-4061 Verify that tags associated via SelfServe Placement are displayed in PSS,1014
+Nexage,KS-409 Verify that Reports tabs can be collapsed and expanded,181
+Nexage,KS-414 Verify that date ranges can be set for reports,274
+Nexage,KS-4167 Ad Server verify that campaign can be saved and deployed,4873
+Nexage,KS-4167 Ad Server verify that campaign can be saved and deployed,895
+Nexage,KS-4167 Ad Server verify that campaign can be saved and deployed,812
+Nexage,KS-4168 Ad Server OS and Devices verify that specific devices can be targeted or not targeted,718
+Nexage,KS-4168 Ad Server OS and Devices verify that specific devices can be targeted or not targeted,261
+Nexage,KS-4218 Impersonate Verify that role can be changed,687
+Nexage,KS-4241 Buyers Verify that Adnet can be created all the sections are filled in,506
+Nexage,KS-4322 Verify that Seller can be changed in impersonate drop-down,782
+Nexage,KS-4348 PSS Create new Block group verify that block group can be added by Nexage admin as PSS admin,1289
+Nexage,KS-4356 Verify that Connect Partners can be edited,234
+Nexage,KS-4357 Verify that connect partner without subscriptions can be deleted,265
+Nexage,KS-4357 Verify that connect partner without subscriptions can be deleted,335
+Nexage,KS-4359 PSS verify that Publisher Bidder Group can be created by Sellers admin and manager,262
+Nexage,KS-4389 Buyers Verify that Adnet can be created with required fields only general section is filled in,1
+Nexage,KS-4440 PSS Verify that Gross Floor is not displayed for external user,47416
+Nexage,KS-4454 PSS Verify that its possible to create placements on Mediation page,555
+Nexage,KS-4454 PSS Verify that its possible to create placements on Mediation page,4591
+Nexage,KS-4454 PSS Verify that its possible to create placements on Mediation page,4512
+Nexage,KS-4454 PSS Verify that its possible to create placements on Mediation page,528
+Nexage,KS-4467 Connect partner: verify that created partner can be selected in the RTB Bidder Config,287
+Nexage,KS-4476 PSS Verify that its possible to edit an app site Android,574
+Nexage,KS-4531 Verify that Interstitial Image and Video placement can be added from Applications and Sites grid,221
+Nexage,KS-4578 Verify that Placement can be edited in the Settings tab,421
+Nexage,KS-4615 Verify that Nexage admin can be created,113
+Nexage,KS-4619 Settings Verify search for Block Groups grid by Nexage admin,1705
+Nexage,KS-4619 Settings Verify search for Block Groups grid by Nexage admin,1591
+Nexage,KS-4624 Verify that Mediation Ad Source can be created,601
+Nexage,KS-4632 PSS verify that MM Exchange ad source can be updated with allow bidders and bidder groups by Seller admin,1251
+Nexage,KS-4651 Verify that Geo Targeting can be edited from Block to Allow for Mediation Ad Source,1013
+Nexage,KS-4716 Settings Verify that MM only Block Group can be created by Nexage admin,1191
+Nexage,KS-4716 Settings Verify that MM only Block Group can be created by Nexage admin,1002
+Nexage,KS-4787 PSS Verify that positions and sites can be selected for new Campaign Position,308
+Nexage,KS-4797 Settings Verify that Publisher Block Group can be created,222
+Nexage,KS-4846 Settings Verify that Bidder Group can be created,288
+Nexage,KS-4884 PSS Campaign Direct Campaign verify that Name and Pricing section can be filled in,1690
+Nexage,KS-4884 PSS Campaign Direct Campaign verify that Name and Pricing section can be filled in,895
+Nexage,KS-4884 PSS Campaign Direct Campaign verify that Name and Pricing section can be filled in,5006
+Nexage,KS-4884 PSS Campaign Direct Campaign verify that Name and Pricing section can be filled in,894
+Nexage,KS-4905 Impersonate PSS App Placement Overview toolbar is displayed correctly,108
+Nexage,KS-4934 Verify that Geo Targeting can be edited from Block to Allow for MM Exchange Ad Source,803
+Nexage,KS-5000 Sellers Users Verify that Seller admin can be edited,417
+Nexage,KS-5000 Sellers Users Verify that Seller admin can be edited,502
+Nexage,KS-5004 Buyers Users Verify that Buyer admin can be edited,515
+Nexage,KS-5004 Buyers Users Verify that Buyer admin can be edited,466
+Nexage,KS-5156 Reports Verify that search can be performed in the type report and company dropdown,121
+Nexage,KS-5156 Reports Verify that search can be performed in the type report and company dropdown,187
+Nexage,KS-5294 PSS Campaign Direct Campaign data in all sections can be saved by Next Back buttons,0
+Nexage,KS-5355 PSS Campaigns Targeting Custom Targeting verify that custom targeting group can be added,455
+Nexage,KS-5359 PSS Campaign Targeting verify that Block specific devices can be saved,449
+Nexage,KS-5365 PSS Campagin Targeting verify that Android specific versions can be saved,870
+Nexage,KS-5365 PSS Campagin Targeting verify that Android specific versions can be saved,604
+Nexage,KS-5367 PSS Campaign Targeting verify that specific other operating systems can be saved,598
+Nexage,KS-5376 PSS Campaign Targeting verify that Android specific devices can be edited,701
+Nexage,KS-5399 Impersonate PSS Campaign Status verify that incomplete campaign can be changed to running,259
+Nexage,KS-5399 Impersonate PSS Campaign Status verify that incomplete campaign can be changed to running,1447
+Nexage,KS-5406 PSS Campaign Status verify that running campaign can be changed to incomplete and back,803
+Nexage,KS-5406 PSS Campaign Status verify that running campaign can be changed to incomplete and back,0
+Nexage,KS-5406 PSS Campaign Status verify that running campaign can be changed to incomplete and back,585
+Nexage,KS-5409 PSS Campagin Status verify that running campaign can be edited,0
+Nexage,KS-5426 PSS Campaign Creatives verify that 3rd party tag can be edited,0
+Nexage,KS-5430 PSS Campaign Creatives verify that creative and 3rd party tag can be deleted,643
+Nexage,KS-5430 PSS Campaign Creatives verify that creative and 3rd party tag can be deleted,0
+Nexage,KS-5437 PSS Campaigns Targeting verify that campaign can be saved with Wifi and carriers option and all carriers,0
+Nexage,KS-5437 PSS Campaigns Targeting verify that campaign can be saved with Wifi and carriers option and all carriers,4621
+Nexage,KS-5444 PSS Campaigns Targeting Country Targeting verify that blocked countries can be selected,267
+Nexage,KS-5444 PSS Campaigns Targeting Country Targeting verify that blocked countries can be selected,269
+Nexage,KS-5454 PSS Campaigns Targeting verify that the list of specific carriers depends on a list of allowed blocked countries,0
+Nexage,KS-5454 PSS Campaigns Targeting verify that the list of specific carriers depends on a list of allowed blocked countries,673
+Nexage,KS-5454 PSS Campaigns Targeting verify that the list of specific carriers depends on a list of allowed blocked countries,0
+Nexage,KS-5624 PSS Verify that Millennial Media Exchange can be added by Sellers admin and manager,601
+Nexage,KS-563 Verify that new added dimensions are displayed in the report,145
+Nexage,KS-5641 Impersonate PSS Verify that Rich Media Allowed and Allowed Ad Formats are not displayed for external user,568
+Nexage,KS-5641 Impersonate PSS Verify that Rich Media Allowed and Allowed Ad Formats are not displayed for external user,484
+Nexage,KS-5652 Verify that Native placement can be added from Applications and Sites grid,883
+Nexage,KS-5653 Verify that Medium Rectangle placement can be added from Applications and Sites grid,399
+Nexage,KS-5700 Sellers: Position Setup: add and edit position with Native type,412
+Nexage,KS-573 Verify that Seller Revenue report can be drilled down by Seller User,1977
+Nexage,KS-573 Verify that Seller Revenue report can be drilled down by Seller User,5676
+Nexage,KS-5759 Sellers: Position Setup: add In-stream Video position and check all correct data are shown in PSS, update in PSS and check in seller admin,569
+Nexage,KS-5765 Change dimension filters for Seller Revenue report,652
+Nexage,KS-5765 Change dimension filters for Seller Revenue report,4927
+Nexage,KS-5783 Sellers Tag Setup override settings for Banner different values Inherited from position,4607
+Nexage,KS-5783 Sellers Tag Setup override settings for Banner different values Inherited from position,586
+Nexage,KS-5806 Verify that columns can be hidden and unhidden in Nexage Finance Reports,2076
+Nexage,KS-5815 PSS Verify that Ad Size can be overriden at tag level Impersonate,489
+Nexage,KS-5815 PSS Verify that Ad Size can be overriden at tag level Impersonate,629
+Nexage,KS-5817 Verify that ONE: Mobile Marketplace Ad Source can be created,223
+Nexage,KS-5841 Verify that MM Network Ad Source can be created,568
+Nexage,KS-5987 users: verify Nexage User can impersonate as Seller User only,565
+Nexage,KS-5988 Verify that its possible to clone deal,8875
+Nexage,KS-6010 Verify AND search for Available suppliers grid,6319
+Nexage,KS-6013 PSS Mediation Ad Source verify different Reporting Settings parameters are shown as configured for Adnet,272
+Nexage,KS-6013 PSS Mediation Ad Source verify different Reporting Settings parameters are shown as configured for Adnet,1420
+Nexage,KS-6059 Verify that Internal Manager can be edited,412
+Nexage,KS-6059 Verify that Internal Manager can be edited,4458
+Nexage,KS-6062 Verify that Internal User can be deleted,412
+Nexage,KS-6110 PSS: Users: Verify that sites can be edited for users,0
+Nexage,KS-6110 PSS: Users: Verify that sites can be edited for users,824
+Nexage,KS-6110 PSS: Users: Verify that sites can be edited for users,982
+Nexage,KS-6123 Impersonate PSS Default Reporting Settings verify all fields are prefilled with values saved on Ad source,755
+Nexage,KS-6123 Impersonate PSS Default Reporting Settings verify all fields are prefilled with values saved on Ad source,1689
+Nexage,KS-6134 PSS: Verify that MM Exchange Ad Source can be created with default bidder groups,1393
+Nexage,KS-6134 PSS: Verify that MM Exchange Ad Source can be created with default bidder groups,1115
+Nexage,KS-6159 PSS: perform Save and Add Exchange when new placement is added from the grid,451
+Nexage,KS-6159 PSS: perform Save and Add Exchange when new placement is added from the grid,397
+Nexage,KS-6159 PSS: perform Save and Add Exchange when new placement is added from the grid,495
+Nexage,KS-6268 Verify that Buyer admin can be created,567
+Nexage,KS-6279 Verify that Seller user can be deleted,595
+Nexage,KS-6280 Verify that Buyer user can be deleted,581
+Nexage,KS-6280 Verify that Buyer user can be deleted,498
+Nexage,KS-6457 Impersonate Applications and Sites Verify that placement can be edited interstitial to banner,560
+Nexage,KS-6457 Impersonate Applications and Sites Verify that placement can be edited interstitial to banner,0
+Nexage,KS-6469 PSS Verify that Test Ad Source can be edited,915
+Nexage,KS-6469 PSS Verify that Test Ad Source can be edited,921
+Nexage,KS-6978 PSS MM Network Verify that it's possible to copy tag,228
+Nexage,KS-6978 PSS MM Network Verify that it's possible to copy tag,1389
+Nexage,KS-6980 PSS Mediation Ad Source Verify that it's possible to copy tag,5797
+Nexage,KS-6980 PSS Mediation Ad Source Verify that it's possible to copy tag,2157
+Nexage,KS-6998 PSS Verify that tag can be paused,2629
+Nexage,KS-6998 PSS Verify that tag can be paused,null
